@@ -31,7 +31,7 @@ curly-brace {@link expression expression} bindings:
           wrapped in "{{ }}" markup -->
    <button ng-click="changeFoo()">{{buttonText}}</button>
    <script src="angular.js"></script>
- </body>
+ </bodyf>
 </html>
 ```
 
